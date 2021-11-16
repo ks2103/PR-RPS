@@ -1,4 +1,4 @@
 # PR-RPS
-Older player shows:
+Older player shows:rock
 
 Younger player shows: scissors
